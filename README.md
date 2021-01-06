@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Mr-IoT's github stats](https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=radical)
