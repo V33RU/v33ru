@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Mr-IoT's github stats](https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=radical)
+
+[![Languages i use](https://github-readme-stats.vercel.app/api/top-langs/?username=v33ru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
