@@ -22,11 +22,11 @@ Hey 👋,
 I am **Mr-IoT**, Keen Interested in IoT , emdeddeds and Opensource projects.
 
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/veeraiot/" target="_blank">Profile</a>  /  <a href="https://twitter.com/v33riot" target="_blank">Social</a>   /  <a href="https://iotpentest.com" target="_blank">blog</a>
 </p>
 
-<div style="text-align: right"> "![Mr-IoT's github stats](https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=dracula) </div>
+![Mr-IoT's github stats](https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=dracula)
 
 [![Languages i use](https://github-readme-stats.vercel.app/api/top-langs/?username=v33ru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
