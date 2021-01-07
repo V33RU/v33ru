@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="1201" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
+
+Hey 👋,
+
+I am **Mr-IoT**, Keen Interested in IoT , emdeddeds and Opensource projects.
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/veeraiot/" target="_blank">Profile</a>  /  <a href="https://twitter.com/v33riot" target="_blank">Social</a>   /  <a href="https://iotpentest.com" target="_blank">blog</a>
+</p>
+
 
 ![Mr-IoT's github stats](https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=dracula)
 
