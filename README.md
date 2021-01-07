@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1201" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
+<img width="200" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
 
 Hey 👋,
 
