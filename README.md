@@ -10,5 +10,5 @@ Follo Me:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=dracula" width="300">
 
-[![Languages i use](https://github-readme-stats.vercel.app/api/top-langs/?username=v33ru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=v33ru&layout=compact" width="200">
 
