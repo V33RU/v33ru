@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hey 👋,
 
-I am **Mr-IoT**, Keen Interested in IoT , emdeddeds and Opensource projects.
+<span style="color: blue;">I am **Mr-IoT**, Keen Interested in IoT , emdeddeds and Opensource projects.</span>
 
 
 <p align="right">
