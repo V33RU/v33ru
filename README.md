@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <span style="color:blue">I Am <img width="100" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
-Keen Interested in IoT , emdeddeds and Opensource projects. </span>
+
+- 🔭 IoT Security and Embeddeds
+- 🌱 Development of IoT
+- 💬 Any questions on IoT
+- 
 
 
 <p align="right">
