@@ -1,4 +1,4 @@
-### Hi there 👋
+***Hi there*** 👋
 
 <!--
 **V33RU/v33ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
-
-Hey 👋,
-
-<span style="color: blue;">I am **Mr-IoT**, Keen Interested in IoT , emdeddeds and Opensource projects. </span>
+<span style="color:blue">I Am <img width="100" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
+Keen Interested in IoT , emdeddeds and Opensource projects. </span>
 
 
 <p align="right">
