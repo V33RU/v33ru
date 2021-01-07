@@ -1,7 +1,7 @@
 ***Hi there*** 👋
 
 
-I Am  <img width="100" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.jpg">
+I Am  <img width="100" alt="Screenshot" src="https://github.com/V33RU/v33ru/blob/main/logo%20in%20illustrator.png">
 
 
 
