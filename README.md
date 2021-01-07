@@ -7,6 +7,8 @@ I Am &nbsp; <img width="100" alt="Screenshot" src="https://github.com/V33RU/v33r
 
 Follo Me:
 ![[Twitter](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)](https://twitter.com/v33riot)
+<a class="icon-twitter social-button color" href="https://twitter.com/v33riot"></a>
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=v33ru&show_icons=true&theme=dracula" width="300">
 
