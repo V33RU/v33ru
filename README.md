@@ -6,7 +6,7 @@
 #### WEBSITE : [![iotpentest.com](https://img.shields.io/website?label=iotpentest.com&style=for-the-badge&up_color=green&url=https%3A%2F%2Fwww.iotpentest.com%2F)](https://www.iotpentest.com/)
 
 
-
-
+#### Github Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=v33ru&count_private=true&show_icons=true)
 
 
