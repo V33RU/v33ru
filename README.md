@@ -6,3 +6,7 @@ https://www.iotpentest.com | https://twitter.com/v33riot
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=v33ru&count_private=true&show_icons=true)
 
 
+#### CVE's
+|-----|-----|
+| [CVE-2020-23512](https://nvd.nist.gov/vuln/detail/CVE-2020-23512) | incorrect access control |
+| [CVE-2018-12255](https://nvd.nist.gov/vuln/detail/CVE-2018-12255) | Stored XSS |
