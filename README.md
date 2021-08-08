@@ -12,7 +12,8 @@ https://www.iotpentest.com | https://twitter.com/v33riot
 
 #### Projects 
 |#| Project Name | Release Year | Use of it |
-|1| IoT-PT OSv1  | 2020 | OS for Pentesting IoT Devvices |
+| ---|---|---|---|
+|1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devvices |
 |2| BBB*** | upcoming| Upcoming|
 
 
