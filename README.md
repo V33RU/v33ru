@@ -1,4 +1,4 @@
-***Hi there , I am Mr-IoT ,Keen Interested in IoT Pentesting && Down to earth so no worries to talk with me , be free*** 👋
+***Hi there , I am Mr-IoT , Keen Interested in IoT Pentesting && Down to earth so no worries to talk with me , be free*** 👋
 
 https://www.iotpentest.com | https://twitter.com/v33riot
 
