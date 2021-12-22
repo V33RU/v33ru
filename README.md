@@ -2,6 +2,8 @@
 
 https://www.iotpentest.com | https://twitter.com/v33riot
 
+![](https://komarev.com/ghpvc/?username=v33ru)
+
 #### Talks and Trainings 
 | # | Conferece | Training/Talks | Year |
 | ---|---|---|---|
