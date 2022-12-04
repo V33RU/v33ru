@@ -32,7 +32,7 @@ github.com/IoTSecurity101
 
 
 
-https://www.iotpentest.com | [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/v33riot)
+https://www.iotpentest.com |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veeraiot/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/v33riot) |
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
