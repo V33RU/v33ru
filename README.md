@@ -1,6 +1,6 @@
 ***Hi all 👋 , I am well known as Mr-IoT rather than my original name, 
 I'm the person who making more IoT Security stuff in opensource like IoT pentesting OS , and curated list and blogs as well. 
-IoTSecurity101 Community successfully maintained since 4 years to till today in Telegram and Discord too.
+IoTSecurity101 Community successfully maintained since 4 years to till today in Telegram and Discord too.***
 
 ##### For contact : curl -sL https://tinyurl.com/mr-iot|sh 
 `
@@ -32,7 +32,7 @@ github.com/IoTSecurity101
 
 
 
-https://www.iotpentest.com | [(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/v33riot)
+https://www.iotpentest.com | (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/v33riot)
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
