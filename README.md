@@ -1,8 +1,9 @@
-Hi all 👋 , I am well known as Mr-IoT rather than my original name, 
+***Hi all 👋 , I am well known as Mr-IoT rather than my original name, 
 I'm the person who making more IoT Security stuff in opensource like IoT pentesting OS , and curated list and blogs as well. 
 IoTSecurity101 Community successfully maintained since 4 years to till today in Telegram and Discord too.
 
-For contact : curl -sL https://tinyurl.com/mr-iot|sh 
+##### For contact : curl -sL https://tinyurl.com/mr-iot|sh 
+`
     ╭───────────────────────────────────────────────────────╮
     │                                                       │
     │           Veerababu Penugonda / Mr-IoT                │
@@ -18,7 +19,7 @@ For contact : curl -sL https://tinyurl.com/mr-iot|sh
     │     Community:  https://iotsecurity101.org            │
     │      BugCrowd:  https://bugcrowd.com/V33RU_Mr-IoT     │
     │                                                       │
-    ╰───────────────────────────────────────────────────────╯
+    ╰───────────────────────────────────────────────────────╯ `
 
 
 
