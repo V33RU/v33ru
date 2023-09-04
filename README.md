@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
-<img src="https://github.com/V33RU/IoTSecurity101/blob/master/Logos/IoT101-2.jpg" alt="alt text" title="image Title" width="150"/>
+<img src="https://github.com/V33RU/IoTSecurity101/blob/master/Logos/IoT101-2.jpg" alt="alt text" title="image Title" width="250"/>
 
 --------------------------------------------------------------------------------------------------------------------------
 
