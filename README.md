@@ -13,6 +13,8 @@
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
+<img src="https://raw.githubusercontent.com/V33RU/IoTSecurity101/master/101-final/Main-logo-101.png" alt="alt text" title="image Title" width="110"/>
+
 <img src="https://raw.githubusercontent.com/V33RU/IoTSecurity101/master/iot-banner.png" alt="alt text" title="image Title" width="550"/>
 
 --------------------------------------------------------------------------------------------------------------------------
