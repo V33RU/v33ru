@@ -27,6 +27,7 @@
 |3|[p0scon](https://www.poscon.ir) - Iran | [Understanding And Exploiting 433MHZ](https://www.poscon.ir/2019/) | 2019
 |4|[owaspseasides](https://www.owaspseasides.com/) - Goa |[BLE UAE (Understanding And Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020
 |5|[Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023
+|6|[c0c0n-2023](https://seasides.net/) - cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023
 
 ------------------------------------------------------------------------------------------------------------------------------
 
