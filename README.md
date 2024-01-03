@@ -20,7 +20,7 @@
 
 #### Talks and Trainings 
 | # | Conferece | Training/Talks | Year | Slides | 
-| ---|---|---|---|
+| ---|---|---|---|---|
 |1| [Cysinfo](https://cysinfo.com/) - Bangalore | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
 |2|[null community](null.community) - Bangalore | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | 2016 | [Slides-Null](https://github.com/v33ru/my-slides)
 |3|[p0scon](https://www.poscon.ir) - Iran | [Understanding And Exploiting 433MHZ](https://www.poscon.ir/2019/) | 2019 | NA |
