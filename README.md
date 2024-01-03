@@ -18,6 +18,14 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
+#### Projects 
+|#| Project Name | Release Year | Use of it |
+|---|---|---|---|
+|1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devices |
+|2| BBB*** | upcoming| Upcoming|
+
+------------------------------------------------------------------------------------------------------------------------------
+
 #### Talks and Trainings 
 | # | Conferece | Training/Talks | Year | Slides | 
 |---|---|---|---|---|
@@ -27,14 +35,6 @@
 |4|[owaspseasides](https://www.owaspseasides.com/) - Goa |[BLE UAE (Understanding And Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |
 |5|[Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | updating soon |
 |6|[c0c0n-2023](https://seasides.net/) - cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | updating soon |
-
-------------------------------------------------------------------------------------------------------------------------------
-
-#### Projects 
-|#| Project Name | Release Year | Use of it |
-|---|---|---|---|
-|1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devices |
-|2| BBB*** | upcoming| Upcoming|
 
 ----------------------------------------------------------------------------------------------------------------------------
 
