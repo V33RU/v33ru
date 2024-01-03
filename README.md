@@ -36,4 +36,11 @@
 |1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devices |
 |2| BBB*** | upcoming| Upcoming|
 
+----------------------------------------------------------------------------------------------------------------------------
 
+#### Publications
+|#| Name | Publication Year | Magazine/Books | Source |
+|---|---|---|
+|1| Internet of Things Penetration Testing OS | 2020 | Hakin9 | [link](https://hakin9.org/product/android-applications-and-security/) |
+|2| Hunting IoT Devices with NetHunter:  PART 1 | 2019 | Hakin9 | [link](https://hakin9.org/product/practical-devops/) |
+|3| IoT Security Essentials 101 | 2017 | Pentest Magazine | [link](https://pentestmag.com/download/pentest-security-things/) |
