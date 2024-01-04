@@ -23,6 +23,8 @@
 |---|---|---|---|
 |1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devices |
 |2| CommandInWiFi | upcoming| Upcoming |
+|3| IoT-PT OSv3 | 2024 | Upcoming |
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
