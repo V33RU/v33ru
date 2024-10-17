@@ -24,7 +24,7 @@
 |1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | OS for Pentesting IoT Devices |
 |2| [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024| Ongoing |
 |3| [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Microprobing on hardware |
-|3| IoT-PT OSv3 | 2024 | Upcoming |
+|3| IoT-PT OSv2 | 2024 | Upcoming |
 
 
 ------------------------------------------------------------------------------------------------------------------------------
