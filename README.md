@@ -13,9 +13,6 @@
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
-<img src="https://github.com/iotsrg/.github/blob/main/iot/IoTSRG%20(2).png" alt="alt text" title="image Title" width="150"/>
-
-
 --------------------------------------------------------------------------------------------------------------------------
 
 #### Projects 
