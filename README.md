@@ -27,14 +27,17 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 #### Talks and Trainings 
-| # | Conferece | Training/Talks | Year | Slides | 
-|---|---|---|---|---|
-|1| [Cysinfo](https://cysinfo.com/) - Bangalore | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
-|2|[null community](null.community) - Bangalore | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | 2016 | [Slides-Null](https://github.com/v33ru/my-slides)
-|3|[p0scon](https://www.poscon.ir) - Iran | [Understanding And Exploiting 433MHZ](https://www.poscon.ir/2019/) | 2019 | NA |
-|4|[owaspseasides](https://www.owaspseasides.com/) - Goa |[BLE UAE (Understanding And Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |
-|5|[Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | updating soon |
-|6|[c0c0n-2023](https://seasides.net/) - cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | updating soon |
+| Conference | Training/Talks | Year | Slides | 
+|---|---|---|---|
+| [BSides Dehradun](https://bsidesdehradun.com/speakers) - Dehradun | Keynote Speaker | 2024 | updating soon |
+| [c0c0n-2023](https://seasides.net/) - Cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | updating soon |
+| [Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | updating soon |
+| [owaspseasides](https://www.owaspseasides.com/) - Goa | [BLE UAE (Understanding And Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |
+| [p0scon](https://www.poscon.ir) - Iran | [Understanding And Exploiting 433MHZ](https://www.poscon.ir/2019/) | 2019 | NA |
+| [null community](null.community) - Bangalore | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | 2016 | [Slides-Null](https://github.com/v33ru/my-slides) |
+| [Cysinfo](https://cysinfo.com/) - Bangalore | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
