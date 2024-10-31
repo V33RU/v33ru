@@ -13,7 +13,9 @@
 
 ![](https://komarev.com/ghpvc/?username=v33ru)
 
-[![](Gold-IoTSRG.png)](https://www.iotsrg.org/)
+<a href="https://www.iotsrg.org/">
+  <img src="Gold-IoTSRG.png" alt="IoTSRG Logo" width="150" />
+</a>
 
 
 --------------------------------------------------------------------------------------------------------------------------
