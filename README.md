@@ -1,5 +1,5 @@
 #### ***Hi all 👋,***
-#### ***I am well known as Mr-IoT rather than my original name, I'm the person who makes IoT Security Knowledge into opensource like IoT pentesting OS , and curated list and blogs as well. IoTSecurity101 Community successfully maintained since 2017 in Reddit,Telegram and Discord too.***
+#### ***I am well known as Mr-IoT rather than my original name, I'm the person who makes IoT Security Knowledge into opensource like IoT pentesting OS , and curated list and blogs as well. IoTSRG Community successfully maintained since 2017 in Reddit,Telegram and Discord too.***
 
 ##### For contact : curl -sL https://tinyurl.com/mr-iot|sh 
 
