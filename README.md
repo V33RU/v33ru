@@ -45,7 +45,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-#### Publications
+### Publications
 |#| Name | Publication Year | Magazine/Books | Source |
 |---|---|---|---|---|
 |1| Internet of Things Penetration Testing OS | 2020 | Hakin9 | [link](https://hakin9.org/product/android-applications-and-security/) |
