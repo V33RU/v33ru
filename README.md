@@ -34,7 +34,7 @@
 #### Talks and Trainings 
 | Conference | Training/Talks | Year | Slides | 
 |---|---|---|---|
-| [BSides Kerala](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) - Kerala | [IoT Bug Discovery: From Vulnerability to Exploit](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | 2025 | Updating Soon |
+| [BSides Kerala](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) - Kerala | [IoT Bug Discovery: From Vulnerability to Exploit - Workshop](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | 2025 | Updating Soon |
 | [BSides Dehradun](https://bsidesdehradun.com/speakers) - Dehradun | Keynote Speaker | 2024 | updating soon |
 | [c0c0n-2023](https://seasides.net/) - Cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | updating soon |
 | [Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | updating soon |
