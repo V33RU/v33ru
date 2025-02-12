@@ -31,17 +31,19 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### Talks and Trainings 
-| Conference | Training/Talks | Year | Slides | 
-|---|---|---|---|
-| [BSides Kerala](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) - Kerala | [IoT Bug Discovery: From Vulnerability to Exploit - Workshop](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | 2025 | Updating Soon |
-| [BSides Dehradun](https://bsidesdehradun.com/speakers) - Dehradun | Keynote Speaker | 2024 | updating soon |
-| [c0c0n-2023](https://seasides.net/) - Cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | updating soon |
-| [Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | updating soon |
-| [owaspseasides](https://www.owaspseasides.com/) - Goa | [BLE UAE (Understanding And Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |
-| [p0scon](https://www.poscon.ir) - Iran | [Understanding And Exploiting 433MHZ](https://www.poscon.ir/2019/) | 2019 | NA |
-| [null community](null.community) - Bangalore | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | 2016 | [Slides-Null](https://github.com/v33ru/my-slides) |
-| [Cysinfo](https://cysinfo.com/) - Bangalore | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
+### **Talks and Trainings**  
+
+| **Conference** | **Location** | **Country** | **Training/Talk** | **Year** | **Slides** |  
+|--------------|------------|---------|-----------------|------|--------|  
+| [BSides Kerala](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | **Kerala** | **India** | [IoT Bug Discovery: From Vulnerability to Exploit – Workshop](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | 2025 | Updating Soon |  
+| [BSides Dehradun](https://bsidesdehradun.com/speakers) | **Dehradun** | **India** | **Keynote Speaker** | 2024 | Updating Soon |  
+| [c0c0n-2023](https://seasides.net/) | **Cochin** | **India** | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023 | Updating Soon |  
+| [Seasides](https://seasides.net/) | **Goa** | **India** | [Mastering IoT Security – Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023 | Updating Soon |  
+| [OWASP Seasides](https://www.owaspseasides.com/) | **Goa** | **India** | [BLE UAE (Understanding and Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |  
+| [p0scon](https://www.poscon.ir) | **Tehran** | **Iran** | [Understanding and Exploiting 433MHz](https://www.poscon.ir/2019/) | 2019 | N/A |  
+| [null community](https://null.community) | **Bangalore** | **India** | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | 2016 | [Slides](https://github.com/v33ru/my-slides) |  
+| [Cysinfo](https://cysinfo.com/) | **Bangalore** | **India** | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |  
+
 
 
 
