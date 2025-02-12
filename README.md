@@ -3,7 +3,6 @@
 
 ##### For contact : curl -sL https://tinyurl.com/mr-iot|sh 
 
------------
 
 #### 🌐 Connect with Me
 <p align="center">
