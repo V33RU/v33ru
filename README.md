@@ -5,35 +5,16 @@
 
 -----------
 
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.gg/WRPePTBS2Q" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="35" title="Discord">
-  </a> 
-  | 
-  <a href="https://t.co/PyzNrnQVSM" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="35" title="Telegram">
-  </a> 
-  | 
-  <a href="https://t.co/NPkAl8bPB3" target="_blank">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="35" title="Reddit">
-  </a> 
-  | 
-  <a href="https://twitter.com/v33riot" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/1DA1F2" height="35" title="Twitter">
-  </a> 
-  | 
-  <a href="https://www.linkedin.com/in/veeraiot/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="35" title="LinkedIn">
-  </a> 
-  | 
-  <a href="https://mr-iot.blog/" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubpages/000000" height="35" title="Website">
-  </a> 
-  | 
-  <a href="https://www.buymeacoffee.com/v33ru" target="_blank">
-    <img src="https://cdn.simpleicons.org/buymeacoffee/FFDD00" height="35" title="Buy Me A Coffee">
-  </a>
+  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://reddit.com/u/your-reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/your-link"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
+
 
 
 ------------
