@@ -4,7 +4,7 @@ Well known as ***Mr-IoT***, I transform IoT security knowledge into open-source 
 
 🔍 Passionate about breaking and securing embedded systems, wireless tech, and hardware security.  
 
-🛀 Constantly building, breaking, and securing the connected world—one exploit at a time.  
+🛀 Constantly building, breaking, and securing the connected world one exploit at a time.  
 
 📞 **For contact:**  
 ```bash
