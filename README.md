@@ -1,7 +1,7 @@
-<h1 align="center">👾 Mr-IoT : Architect of Open-Source IoT Warfare</h1>
+<h1 align="center">👾 Mr-IoT </h1>
 
 <p align="center">
-  <strong>IoT Security Researcher • Hardware Breaker • Community Builder</strong><br>
+  <strong> IoT Security Researcher • Hardware Breaker • Community Builder • Building Opensource IoT Security </strong><br>
   🧠 Founder of <a href="https://iotsrg.org">IoTSRG</a> • Since 2017 • Uplifting the IoT hacking underground
 </p>
 
