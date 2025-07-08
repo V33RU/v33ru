@@ -1,59 +1,95 @@
-### **👾  Mr-IoT: The Mind Behind Open-Source IoT Security**  
+<h1 align="center">👾 Mr-IoT : Architect of Open-Source IoT Warfare</h1>
 
-Well known as ***Mr-IoT***, I transform IoT security knowledge into open-source gold building cutting-edge IoT pentesting OS, curated security resources, and in-depth technical blogs. Since 2017, I’ve been leading the **IoTSRG** community across **Reddit, Telegram, and Discord**, making IoT hacking accessible to all.  
+<p align="center">
+  <strong>IoT Security Researcher • Hardware Breaker • Community Builder</strong><br>
+  🧠 Founder of <a href="https://iotsrg.org">IoTSRG</a> • Since 2017 • Uplifting the IoT hacking underground
+</p>
 
-🔍 Passionate about breaking and securing embedded systems, wireless tech, and hardware security.  
+---
 
-🛀 Constantly building, breaking, and securing the connected world one exploit at a time.  
-
-📞 **For contact:**  
+### 🛠️ Whoami
 ```bash
 curl -sL https://tinyurl.com/mr-iot | sh
 ```
 
+I'm **Mr-IoT** — turning zero-clicks into open-source arsenals. Since 2017, I've been breaking, building, and securing embedded tech while fueling the rise of research through [IoTSRG](https://iotsrg.org).
+
 ---
 
-### **🌐 Connect with Me**  
-<p align="">
+### 🌍 Connect with Me
+
+<p align="center">
   <a href="https://x.com/v33riot"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="www.linkedin.com/in/veeraiot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/veeraiot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://buymeacoffee.com/v33ru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
 
 ---
 
-### **🚀 Projects That Matter**  
+### 🧬 Projects that Weaponize Knowledge
 
-|#| Project Name | Release Year | Purpose |
-|---|---|---|---|
-|1| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | IoT-focused Pentesting OS |
-|2| [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Ongoing Wireless Security Project |
-|3| [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Hardware Microprobing Toolkit |
-|4| IoT-PT OSv2 | 2024 | Next-Gen IoT Pentesting OS |
-
----
-
-### **🎤 Talks & Trainings**  
-
-| **Conference** | **Location** | **Country** | **Training/Talk** | **Type** | **Year** | **Slides** |  
-|----------------|-------------|-------------|-------------------|----------|----------|------------|
-| [Seasides Goa](https://seasides.net/) | Goa | India | [Mastering IoT Exploitation: Advanced Hardware and Bluetooth Security – Workshop](https://seasides.net/mastering-iot-exploitation-advanced-hardware-and-bluetooth-security/) | Workshop | 2025 | Updating Soon |  
-| [BSides Kerala](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | Kerala | India | [IoT Bug Discovery: From Vulnerability to Exploit – Workshop](https://bsideskerala.in/speakers/2025/veerababu-penugonda-(Mr-IoT)/) | Workshop | 2025 | Updating Soon |  
-| [BSides Dehradun](https://bsidesdehradun.com/speakers) | Dehradun | India | **Keynote Speaker** | Keynote | 2024 | Updating Soon |  
-| [c0c0n-2023](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | Cochin | India | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | Village Lead | 2023 | Updating Soon |  
-| [Seasides](https://seasides.net/) | Goa | India | [Mastering IoT Security – Workshop](https://seasides.net/mastering-iot-security-workshop/) | Workshop | 2023 | Updating Soon |  
-| [OWASP Seasides](https://www.owaspseasides.com/) | Goa | India | [BLE UAE (Understanding and Exploiting)](https://www.owaspseasides.com/sessions/ble_uae/) | Talk | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |  
-| [p0scon](https://www.poscon.ir) | Tehran | Iran | [Understanding and Exploiting 433MHz](https://www.poscon.ir/2019/) | Talk | 2019 | N/A |  
-| [null community](https://null.community) | Bangalore | India | [Training/Talks](https://null.community/profile/3556-veerababu-mr-iot) | Talk/Training | 2016 | [Slides](https://github.com/v33ru/my-slides) |  
-| [Cysinfo](https://cysinfo.com/) | Bangalore | India | [IoT Exploitation](https://cysinfo.com/8th-meetup-iot-exploitation/) | Talk | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
-
+| 🧠 | Project | Year | Description |
+|----|---------|------|-------------|
+| 🚀 | [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | A custom OS for IoT pentesting |
+| 📡 | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Covert command channel via WiFi |
+| 🧲 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Hardware probing toolkit for fault injection |
+| 🔥 | IoT-PT OSv2 | 2024 | The next-gen open-source IoT warfare platform |
 
 ---
 
-### **🌟 Publications – Where IoT Hacking Meets Print**  
+### 🎙️ Talks, Workshops & Hacker Villages
 
-|#| Title | Year | Published In | Source |
-|---|---|---|---|---|
-|1| **Hacking the IoT: A Pentester’s OS for Connected Devices** | 2020 | Hakin9 | [Read Here](https://hakin9.org/product/android-applications-and-security/) |
-|2| **Hunting IoT Devices with NetHunter – Part 1** | 2019 | Hakin9 | [Read Here](https://hakin9.org/product/practical-devops/) |
-|3| **IoT Security Essentials 101: Breaking and Securing Smart Tech** | 2017 | Pentest Magazine | [Read Here](https://pentestmag.com/download/pentest-security-things/) |
+| 🧭 Conference | 📍 Location | 🎤 Topic | 🎯 Role | 📅 Year | 🔗 Slides |
+|---------------|-------------|---------|--------|---------|------------|
+| [Seasides](https://seasides.net/) | Goa, India | Advanced HW + BLE Exploitation | Workshop | 2025 | Updating |
+| [BSides Kerala](https://bsideskerala.in/) | Kerala, India | IoT Bug Discovery & Exploitation | Workshop | 2025 | Updating |
+| [BSides Dehradun](https://bsidesdehradun.com) | Dehradun, India | Keynote | Keynote | 2024 | Updating |
+| [c0c0n](https://india.c0c0n.org) | Cochin, India | IoT Security Village | Village Lead | 2023 | Soon |
+| [OWASP Seasides](https://owaspseasides.com) | Goa, India | BLE UAE | Talk | 2020 | [Slides](https://github.com/IoTSecurity101/BLE-UAE) |
+| [p0scon](https://poscon.ir) | Tehran, Iran | 433MHz Exploitation | Talk | 2019 | — |
+| [null Bangalore](https://null.community) | Bangalore, India | IoT Exploitation | Training | 2016 | [Slides](https://github.com/v33ru/my-slides) |
+| [Cysinfo](https://cysinfo.com/) | Bangalore, India | IoT Attacks | Talk | 2016 | [Slides](https://cysinfo.com/8th-meetup-iot-exploitation/) |
+
+---
+
+### 📚 Publications - Print-Level Pwnage
+
+| 📘 | Title | 🗓️ Year | 📰 Published In | 🔗 Link |
+|----|-------|--------|----------------|--------|
+| 🔓 | Hacking the IoT: A Pentester’s OS | 2020 | Hakin9 | [Read](https://hakin9.org/product/android-applications-and-security/) |
+| 📡 | Hunting IoT Devices with NetHunter – Pt.1 | 2019 | Hakin9 | [Read](https://hakin9.org/product/practical-devops/) |
+| 🔐 | IoT Security Essentials 101 | 2017 | Pentest Magazine | [Read](https://pentestmag.com/download/pentest-security-things/) |
+
+---
+
+### 🧠 My Domains of Destruction
+
+- Embedded Systems & Firmware Reversing  
+- Fault Injection & Glitch Attacks (Power/Clock/EMFI)  
+- Bluetooth Low Energy Hacking (BLE UAE, Braktooth, Sweyntooth)  
+- Radio Protocol Reverse Engineering (433MHz, Zigbee, Sub-GHz)  
+- Secure Boot Bypass via Hardware Attacks  
+- Hardware Debug Interfaces (UART/SWD/JTAG)  
+- WiFi Exploitation & Covert Channels  
+
+---
+
+### 🕸️ Let’s Collaborate
+
+If you're a:
+
+- Hacker 🧑‍💻  
+- Conference Organizer 🧠  
+- Community Builder 🏗️  
+- Hardware Vendor 🔩  
+- FOSS Believer 💡  
+
+👉 Let’s **build something disruptive** together.  
+I'm open for research collabs, village setups, training sessions, or tool drops.
+
+---
+
+<p align="center">
+  <em>“In a world of closed devices, open-source is rebellion.”</em><br>
+  <strong> Mr-IoT </strong>
+</p>
