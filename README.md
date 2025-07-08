@@ -1,4 +1,4 @@
-<h1 align="center">👾 Mr-IoT </h1>
+<h1 align="center"> Mr-IoT </h1>
 
 <p align="center">
   <strong> IoT Security Researcher • Hardware Breaker • Community Builder • Building Opensource IoT Security </strong><br>
