@@ -31,7 +31,11 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've
   <a href="https://medium.com/@veerababupenugonda">
     <img src="https://img.shields.io/badge/Read%20My-Medium%20Blog-black?logo=medium&style=for-the-badge">
   </a>
+  <a href="https://www.mr-iot.blog/">
+    <img src="https://img.shields.io/badge/My%20Personal%20Blog-000000?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
 </p>
+
 
 
 ---
