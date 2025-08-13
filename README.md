@@ -120,10 +120,6 @@ I'm open for research collabs, village setups, training sessions, or tool drops.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V33RU&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=V33RU&theme=react-dark&hide_border=true&area=true" />
 </p>
 
