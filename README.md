@@ -36,8 +36,6 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've
   </a>
 </p>
 
-
-
 ---
 
 ### 🧬 Projects that Weaponize Knowledge
@@ -49,7 +47,6 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've
 | 🧲 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Hardware probing toolkit for fault injection |
 | 🔥 | [IoT-PT OSv2]() | 2024 | The next-gen open-source IoT warfare platform |
 | 📱 | [ANDI – Android Inspector](https://github.com/iotsrg/Andi) | 2025 | A full-featured Android device security audit toolkit written in Bash |
-
 
 ---
 
@@ -102,6 +99,33 @@ If you're a:
 
 👉 Let’s **build something disruptive** together.  
 I'm open for research collabs, village setups, training sessions, or tool drops.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/V33RU">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=V33RU&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  </a>
+  <a href="https://github.com/V33RU">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V33RU&layout=compact&langs_count=10&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/V33RU">
+    <img height="180" src="https://streak-stats.demolab.com?user=V33RU&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=V33RU&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V33RU&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
