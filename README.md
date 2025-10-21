@@ -46,7 +46,7 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've
 | 📡 | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Covert command channel via WiFi |
 | 🧲 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Hardware probing toolkit for fault injection |
 | 🔥 | [IoT-PT OSv2]() | 2024 | The next-gen open-source IoT warfare platform |
-| 📱 | [ANDI – Android Inspector](https://github.com/iotsrg/Andi) | 2025 | A full-featured Android device security audit toolkit written in Bash |
+| 📱 | [ANDI – Android Inspector](https://github.com/iotsrg/Andi) | 2025 | A full-featured Android OS base IoT devices security audit toolkit written in Bash |
 
 ---
 
