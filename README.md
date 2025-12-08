@@ -46,7 +46,7 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've
 | 📡 | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Covert command channel via WiFi |
 | 🧲 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Hardware probing toolkit for fault injection |
 | 🔥 | [IoT-PT OSv2]() | 2024 | The next-gen open-source IoT warfare platform |
-| 📱 | [CRISCAN](https://github.com/V33RU/cricscan)| 2025 | CRISCAN (Critical Infrastructure Security Scanner) is a Python-based security audit framework designed for Android-based critical systems. It performs comprehensive security assessments using ADB and generates detailed reports in multiple formats. |
+| 📱 | [CRISCAN](https://github.com/V33RU/cricscan)| 2025 | CRISCAN (Critical Infrastructure Security Scanner)|
 
 ---
 
