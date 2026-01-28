@@ -12,7 +12,7 @@
 curl -sL https://tinyurl.com/mr-iot | sh
 ```
 
-I'm **Mr-IoT** - turning zero-clicks into open-source arsenals. Since 2017, I've been breaking, building, and securing embedded tech while fueling the rise of research through [IoTSRG](https://iotsrg.org).
+I'm **Mr-IoT** - turning zero-clicks into open-source arsenals.I've been breaking, building, and securing embedded tech while fueling the rise of research through [IoTSRG](https://iotsrg.org).
 
 ---
 
