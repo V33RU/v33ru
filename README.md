@@ -43,7 +43,6 @@ I'm **Mr-IoT** - turning zero-clicks into open-source arsenals.I've been breakin
 | 🔵  | [BlueSploit](https://github.com/V33RU/bluesploit)       | 2026 | Active | Bluetooth exploitation toolkit                                                                       |
 | 🧰  | [HARDAX](https://github.com/V33RU/hardax)               | 2026 | Active | Hardening Audit eXaminer for Android & IoT  |
 | 🛡️ | [HardenCheck](https://github.com/V33RU/hardencheck)     | 2026 | Active | Firmware hardening & security posture checker                                                        |
-| 🔥  | IoT-PT OSv2                                             | 2024 | Active | The next-gen open-source IoT warfare platform                                                        |
 | 🧲  | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite)   | 2024 | Active | Hardware probing toolkit                                                                             |
 | 📡  | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Active | Covert command channel via WiFi                                                                      |
 | 🚀  | [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT)        | 2020 | Legacy | A custom OS for IoT pentesting|
