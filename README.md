@@ -109,15 +109,6 @@ I'm open for research collabs, village setups, training sessions, or tool drops.
 
 <p align="center">
   <a href="https://github.com/V33RU">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=V33RU&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-  </a>
-  <a href="https://github.com/V33RU">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V33RU&layout=compact&langs_count=10&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/V33RU">
     <img height="180" src="https://streak-stats.demolab.com?user=V33RU&theme=radical&hide_border=true" />
   </a>
 </p>
