@@ -2,7 +2,7 @@
 
 IoT Security Researcher | Hardware Breaker | Community Builder | Building Opensource IoT Security
 
-Founder of IoTSRG (https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking underground
+Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking underground
 
 ---
 
