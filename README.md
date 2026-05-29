@@ -20,7 +20,7 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 | [RFSploit](https://github.com/V33RU/rfsploit) | 2026 | Active | RF exploitation toolkit (SDR, signals, protocol attacks) |
 | [BlueSploit](https://github.com/V33RU/bluesploit) | 2026 | Active | Bluetooth exploitation toolkit |
 | [HARDAX](https://github.com/V33RU/hardax) | 2026 | Active | Hardening Audit eXaminer for Android OS-based IoT devices |
-| [HardenCheck](https://github.com/V33RU/hardencheck) | 2026 | Active | Firmware hardening and security posture checker |
+| [FirmAudit](https://github.com/V33RU/firmaudit) | 2026 | Active | Firmware hardening and security posture checker |
 | [Venoid](https://github.com/V33RU/venoid) | 2026 | Active | APK analyzer |
 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Active | Hardware probing toolkit |
 | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Active | Covert command channel via WiFi |
