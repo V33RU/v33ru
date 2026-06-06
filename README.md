@@ -26,7 +26,7 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 | [tcpk](https://github.com/V33RU/tcpk) | 2026 | Active | Thick Client Pentest Kit |
 | [Sidewinder](https://github.com/V33RU/sidewinder) | 2026 | Active | Wireless Binary Command/shell Injection Hunter (experiment) |
 | [Seraph](https://github.com/V33RU/seraph) | 2026 | Active | Bluetooth Fuzzing framework |
-| [Xoloti](https://github.com/V33RU/xoloti) | 2026 | Active | OS for Flipper Zero |
+| [Xoloti](https://github.com/V33RU/xoloti) | 2026 | Archive | OS for Flipper Zero |
 | [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Active | Covert command channel via WiFi |
 | [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Active | Hardware probing toolkit |
 | [wsdos-iotdevice](https://github.com/V33RU/wsdos-iotdevice) | 2019 | Active | IoT device DoS attack on Websockets |
