@@ -39,7 +39,7 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 | Project | Year | Description |
 |--------|------|------------|
 | [ICEBite](https://github.com/iotsrg/ICEBite) | 2024 | Fault injection - hardware probing toolkit |
-| [baudowladd](https://github.com/iotsrg/baudowladd) | 2026 | UART - hardware research toolkit |
+| [baudowl](https://github.com/iotsrg/baudowl) | 2026 | UART - hardware research toolkit |
 
 ---
 
