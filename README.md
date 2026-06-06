@@ -17,20 +17,20 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 
 | Project | Year | Status | Description |
 |--------|------|--------|------------|
-| https://github.com/akhanda-os | 2026 | Active | Embedded hacking OS - security platform |
-| https://github.com/V33RU/rfsploit | 2026 | Active | RF exploitation toolkit (SDR, signals, protocol attacks) |
-| https://github.com/V33RU/bluesploit | 2026 | Active | Bluetooth exploitation toolkit |
-| https://github.com/V33RU/hardax | 2026 | Active | Android IoT hardening auditor |
-| https://github.com/V33RU/firmaudit | 2026 | Active | Firmware security posture checker |
-| https://github.com/V33RU/venoid | 2026 | Active | APK analyzer |
-| https://github.com/V33RU/tcpk | 2026 | Active | TCP/IP experimentation toolkit |
-| https://github.com/V33RU/sidewinder | 2026 | Active | Offensive security tooling suite |
-| https://github.com/V33RU/seraph | 2026 | Active | Security framework |
-| https://github.com/V33RU/xoloti | 2026 | Active | Embedded security research |
-| https://github.com/V33RU/CommandInWiFi | 2024 | Active | Covert command channel via WiFi |
-| https://github.com/IoTSecurity101/ICEBite | 2024 | Active | Hardware probing toolkit |
-| https://github.com/V33RU/wsdos-iotdevice | 2019 | Active | IoT device DoS research |
-| https://github.com/V33RU/Public-CVE | 2026 | Active | Public vulnerability disclosures |
+| [Akhanda-OS](https://github.com/akhanda-os) | 2026 | Active | Embedded hacking OS - security platform |
+| [RFSploit](https://github.com/V33RU/rfsploit) | 2026 | Active | RF exploitation toolkit (SDR, signals, protocol attacks) |
+| [BlueSploit](https://github.com/V33RU/bluesploit) | 2026 | Active | Bluetooth exploitation toolkit |
+| [HARDAX](https://github.com/V33RU/hardax) | 2026 | Active | Android IoT hardening auditor |
+| [FirmAudit](https://github.com/V33RU/firmaudit) | 2026 | Active | Firmware security posture checker |
+| [Venoid](https://github.com/V33RU/venoid) | 2026 | Active | APK analyzer |
+| [tcpk](https://github.com/V33RU/tcpk) | 2026 | Active | TCP/IP experimentation toolkit |
+| [Sidewinder](https://github.com/V33RU/sidewinder) | 2026 | Active | Offensive security tooling suite |
+| [Seraph](https://github.com/V33RU/seraph) | 2026 | Active | Security framework |
+| [Xoloti](https://github.com/V33RU/xoloti) | 2026 | Active | Embedded security research |
+| [CommandInWiFi](https://github.com/V33RU/CommandInWiFi) | 2024 | Active | Covert command channel via WiFi |
+| [ICE-Bite](https://github.com/IoTSecurity101/ICEBite) | 2024 | Active | Hardware probing toolkit |
+| [wsdos-iotdevice](https://github.com/V33RU/wsdos-iotdevice) | 2019 | Active | IoT device DoS research |
+| [Public-CVE](https://github.com/V33RU/Public-CVE) | 2026 | Active | Public vulnerability disclosures |
 
 ---
 
@@ -38,8 +38,8 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 
 | Project | Year | Description |
 |--------|------|------------|
-| https://github.com/iotsrg/ICEBite | 2024 | Fault injection - hardware probing toolkit |
-| https://github.com/iotsrg/baudowladd | 2026 | UART - hardware research toolkit |
+| [ICEBite](https://github.com/iotsrg/ICEBite) | 2024 | Fault injection - hardware probing toolkit |
+| [baudowladd](https://github.com/iotsrg/baudowladd) | 2026 | UART - hardware research toolkit |
 
 ---
 
@@ -47,7 +47,7 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 
 | Project | Year | Status | Description |
 |--------|------|--------|------------|
-| https://github.com/IoT-PTv/IoT-PT | 2020 | Legacy | Custom OS for IoT penetration testing |
+| [IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT) | 2020 | Legacy | Custom OS for IoT penetration testing |
 
 ---
 
@@ -55,6 +55,6 @@ Founder of [IoTSRG](https://iotsrg.org) | Since 2017 | Uplifting the IoT hacking
 
 | Project | Description |
 |--------|------------|
-| https://github.com/V33RU/awesome-connected-things-sec | IoT - connected device security resources |
-| https://github.com/V33RU/awesome-baremetal-hacking | Baremetal hacking resources |
-| https://github.com/iotsrg/awesome-ros-security | ROS security resources |
+| [awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) | IoT - connected device security resources |
+| [awesome-baremetal-hacking](https://github.com/V33RU/awesome-baremetal-hacking) | Baremetal hacking resources |
+| [awesome-ros-security](https://github.com/iotsrg/awesome-ros-security) | ROS security resources |
